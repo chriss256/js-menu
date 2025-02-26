@@ -1,0 +1,290 @@
+[
+    {
+        "section": "Breads",
+        "id": "rolls",
+        "name": "Refreshing Rolls",
+        "image": "images/rollsmenu.jpg",
+        "description": "The fresh bread you didn't know you needed!",
+        "options": [
+            {
+                "size": "1 Cluster",
+                "price": "$6"
+            },
+            {
+                "size": "1/2 Dozen",
+                "price": "$4"
+            }
+        ],
+        "moreInfoLink": "RR.html"
+    },
+    {
+        "section": "Breads",
+        "id": "cinnamon_rolls",
+        "name": "Cinnamon Rolls",
+        "image": "images/crollsmenu.jpg",
+        "description": "Cinnamon rolls with a glaze of sweetness.",
+        "options": [
+            {
+                "size": "1 Cluster",
+                "price": "$16"
+            },
+            {
+                "size": "3 Ct.",
+                "price": "$10"
+            },
+            {
+                "size": "1 Ct.",
+                "price": "$4"
+            }
+        ],
+        "glazeOptions": [
+            "Yes",
+            "No"
+        ],
+        "moreInfoLink": "CR.html"
+    },
+    {
+        "section": "Breads",
+        "id": "white_bread",
+        "name": "White Bread",
+        "image": "images/breadhome.jpg",
+        "description": "Soft, fresh, and perfect for any occasion.",
+        "options": [
+            {
+                "size": "1 Loaf",
+                "price": "$3"
+            },
+            {
+                "size": "2 Loaves",
+                "price": "$6"
+            }
+        ],
+        "moreInfoLink": "WB.html"
+    }
+    {
+        "section": "Pies",
+        "id": "apple_pie",
+        "name": "Apple Pie",
+        "image": "images/ApplePie.jpg",
+        "description": "Flaky crust, sweet filling!",
+        "options": [
+            {
+                "size": "9 in.",
+                "price": "$15"
+            },
+            {
+                "size": "6 in.",
+                "price": "$8"
+            }
+        ],
+        "moreInfoLink": "Apies.html"
+    },
+    {
+        "section": "Pies",
+        "id": "peach_pie",
+        "name": "Peach Pie",
+        "image": "images/PeachPie.jpg",
+        "description": "Delicious peach pie with a buttery crust.",
+        "options": [
+            {
+                "size": "9 in.",
+                "price": "$15"
+            },
+            {
+                "size": "6 in.",
+                "price": "$8"
+            }
+        ],
+        "moreInfoLink": "Ppies.html"
+    },
+    {
+        "section": "Pies",
+        "id": "cherry_pie",
+        "name": "Cherry Pie",
+        "image": "images/CherryPie.jpg",
+        "description": "Fresh cherries in a golden, flaky crust.",
+        "options": [
+            {
+                "size": "9 in.",
+                "price": "$15"
+            },
+            {
+                "size": "6 in.",
+                "price": "$8"
+            }
+        ],
+        "moreInfoLink": "Cpies.html"
+    },
+    {
+        "section": "Pies",
+        "id": "blueberry_pie",
+        "name": "Blueberry Pie",
+        "image": "images/BlueberryPie.jpg",
+        "description": "A sweet treat made from fresh blueberries.",
+        "options": [
+            {
+                "size": "9 in.",
+                "price": "$15"
+            },
+            {
+                "size": "6 in.",
+                "price": "$8"
+            }
+        ],
+        "moreInfoLink": "Bpies.html"
+    },
+    {
+        "section": "Pies",
+        "id": "strawberry_pie",
+        "name": "Strawberry Pie",
+        "image": "images/strawing.jpeg",
+        "description": "Fresh strawberries in a crisp pie shell.",
+        "options": [
+            {
+                "size": "9 in.",
+                "price": "$15"
+            },
+            {
+                "size": "6 in.",
+                "price": "$8"
+            }
+        ],
+        "moreInfoLink": "Spies.html"
+    }
+    {
+        "id": "cookie",
+        "section": "Cookies",
+        "name": "Chocolate Chip",
+        "image": "images/massimo-adami-OtyGZwflKd8-unsplash.jpg",
+        "description": "Freshly baked chocolate chip cookies every time!",
+        "options": [
+            {
+                "size": "1 Dozen",
+                "price": "$8"
+            },
+            {
+                "size": "1/2 Dozen",
+                "price": "$4"
+            },
+            {
+                "size": "4 Ct.",
+                "price": "$3"
+            }
+        ],
+        "moreInfoLink": "CCC.html"
+    },
+    {
+        "id": "cookie",
+        "section": "Cookies",
+        "name": "Peanut Butter Blossoms",
+        "image": "images/PeanutButterBlossoms.jpg",
+        "description": "Peanut butter blossoms with a sweet, chocolate center.",
+        "options": [
+            {
+                "size": "1 Dozen",
+                "price": "$8"
+            },
+            {
+                "size": "1/2 Dozen",
+                "price": "$4"
+            },
+            {
+                "size": "4 Ct.",
+                "price": "$3"
+            }
+        ],
+        "moreInfoLink": "PBB.html"
+    },
+    {
+        "id": "cookie",
+        "section": "Cookies",
+        "name": "Oatmeal Scotchies",
+        "image": "images/OatmealScotchies.jpg",
+        "description": "Chewy oatmeal cookies with butterscotch chips.",
+        "options": [
+            {
+                "size": "1 Dozen",
+                "price": "$8"
+            },
+            {
+                "size": "1/2 Dozen",
+                "price": "$4"
+            },
+            {
+                "size": "4 Ct.",
+                "price": "$3"
+            }
+        ],
+        "moreInfoLink": "OS.html"
+    }
+    {
+        "id": "peanut_butter_swirl_bars",
+        "section": "Bars",
+        "name": "Peanut Butter Swirl Bars",
+        "image": "images/SwirlBars.jpg",
+        "description": "Sweet peanut butter bars with a swirl of deliciousness.",
+        "options": [
+            {
+                "size": "6 Ct.",
+                "price": "$6"
+            },
+            {
+                "size": "4 Ct.",
+                "price": "$5"
+            },
+            {
+                "size": "2 Ct.",
+                "price": "$3"
+            }
+        ],
+        "moreInfoLink": "PBS.html"
+    },
+    {
+        "id": "blondies",
+        "section": "Bars",
+        "name": "Blondies",
+        "image": "images/Blondies.jpg",
+        "description": "Buttery, sweet blondies with a rich flavor.",
+        "options": [
+            {
+                "size": "6 Ct.",
+                "price": "$6"
+            },
+            {
+                "size": "4 Ct.",
+                "price": "$5"
+            },
+            {
+                "size": "2 Ct.",
+                "price": "$3"
+            }
+        ],
+        "moreInfoLink": "Bl.html"
+    },
+    {
+        "id": "brownies",
+        "section": "Bars",
+        "name": "Brownies",
+        "image": "images/Brownies.jpg",
+        "description": "Classic fudgy brownies with a rich, chocolatey taste.",
+        "options": [
+            {
+                "size": "6 Ct.",
+                "price": "$6"
+            },
+            {
+                "size": "4 Ct.",
+                "price": "$5"
+            },
+            {
+                "size": "2 Ct.",
+                "price": "$3"
+            }
+        ],
+        "frostingOptions": [
+            "Yes Frosting",
+            "No Frosting"
+        ],
+        "moreInfoLink": "B.html"
+    }
+]
